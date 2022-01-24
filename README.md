@@ -14,3 +14,5 @@ When cloning or checking out the project, there is an action to complete at firs
     * On **windows**, use the **Git Bash** - **right click** on the repository folder and select **Git bash Here**
 2. Run **make init**
 3. Local hooks are configured
+
+test
